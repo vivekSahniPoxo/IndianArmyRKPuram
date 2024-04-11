@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RFID locator</string>
+    <string name="qr_scanner">Scan QR(Auto)</string>
+    <string name="mod_rk_puram">MOD RK Puram</string>
+    <string name="locate_file">Locate your file</string>
+    <string name="enter_rfid_no">Enter RFID No</string>
+    <string name="file_tracking_system">Smart File Tracking (RFID)</string>
+    <string name="room_no">ROOM NO:</string>
+    <string name="compactor">Compactor:</string>
+    <string name="shelf_no">Shelf No:</string>
+</resources>
